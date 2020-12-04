@@ -1,0 +1,44 @@
+body{
+    background: black
+}
+.post{ background: white;
+    width: 400px;
+    height: 550px;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+ 
+}
+
+#points{
+    display: flex;
+    float: right;
+    font-size: 2em;
+}
+img{
+    width: 100%;
+}
+.html{
+    display: flex;
+    float: left;
+}
+
+.head{
+    padding: 15px
+}
+footer{
+    padding: 15px
+}
+.icon1{
+    display: flex;
+    float: left;
+    font-size: 2em;
+
+}
+.icon2{
+    display: flex;
+    float: right;
+    font-size: 2em;   
+}
